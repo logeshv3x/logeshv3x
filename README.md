@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi 👋 I'm Logesh S - Fresher UI Developer
 
-<!--
-**logeshv3x/logeshv3x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**About Me:** HTML, CSS, JavaScript use பண்ணி Responsive Website Build பண்றேன். 
+Udemy, Nostra மாதிரி Real Website Clone பண்ணி Practice பண்றேன்.
 
-Here are some ideas to get you started:
+**Tech Stack:** `HTML5` `CSS3` `JavaScript` `Tailwind CSS` `Responsive Design`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Top Projects:**
+| Project | Live Demo | Tech |
+| --- | --- | --- |
+| Portfolio Website | [Link](https://logeshv3x.github.io/Portfolio-Simple-Website/) | HTML CSS JS |
+| Udemy Clone | [Link](https://logeshv3x.github.io/Udemy-clone/) | HTML CSS Responsive |
+| Greenden Tailwind | [Link](https://logeshv3x.github.io/Greenden-Tailwind/) | Tailwind CSS |
+| Student Form | [Link](https://logeshv3x.github.io/Student-Form/) | JS Validation |
+
+**Let's Connect:** 
+📧 logeshsekar67@gmail.com | [LinkedIn](https://www.linkedin.com/in/logesh-s-a759133ab)
