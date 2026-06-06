@@ -3,7 +3,7 @@
 **About Me:** HTML, CSS, JavaScript use பண்ணி Responsive Website Build பண்றேன். 
 Udemy, Nostra மாதிரி Real Website Clone பண்ணி Practice பண்றேன்.
 
-**Tech Stack:** `HTML5` `CSS3` `JavaScript` `Tailwind CSS` `Responsive Design`
+**Tech Stack:** `HTML5` `CSS3` `JavaScript` `Tailwind CSS` `Responsive Design`.
 
 **Top Projects:**
 | Project | Live Demo | Tech |
